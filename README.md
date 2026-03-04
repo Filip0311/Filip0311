@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at Lund university, LTH.<br>Studying B.Sc.Eng in Computer Science and Engineering.<br>One of my strengths is backend development especially in Java. I know basic frontend and some cybersecurity but I am open to learn more about it.
+Student at Lund university, LTH.<br>Studying B.Sc.Eng in Computer Science and Engineering.<br>One of my strengths is backend development, especially in Java. I know basic frontend and some cybersecurity but I am open to learn more about it.
 
 
 ## 🌐 Socials:
